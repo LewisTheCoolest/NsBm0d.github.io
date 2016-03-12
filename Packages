@@ -1,15 +1,15 @@
-Package: com.NsBm0d.ApkList
-Version: 2.2
+Package: com.NsBm0d.AList
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.apklist_2.2_iphoneos-arm.deb
-Size: 2002
-MD5sum: 7a5099a063e882d0e22d492b2bd20aa5
-SHA1: 4cccee25cba392c311b6049212a89ac1c105250d
-SHA256: 5c1f494e5296abe088f443a296c18a52a0846f5ab1d3f0dbc44b4e770050bcdc
+Filename: ./debs//com.nsbm0d.alist_1.0_iphoneos-arm.deb
+Size: 824
+MD5sum: af7f9c7b7fb83a19d05c4d0309727feb
+SHA1: 0762b79600146c4d4fdf49c1ebc76f3ce721a7f0
+SHA256: e9caa28594f5e62803c456fed91d0441930007afcfa71c1313a924c15574fa56
 Section: Tweaks
 Description: New List updated
 Author:  NsBm0d 
 Depiction: https://github.com/NsBm0d/NsBm0d.github.io
-Name: ApkList
+Name: AList
 
