@@ -1,15 +1,1 @@
-Package: com.NsBm0d.ApkList
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.apklist_2.0_iphoneos-arm.deb
-Size: 18898
-MD5sum: dce9613f23b1e63b47c76a46db835673
-SHA1: b61ff658fa67ace666ed8afd25356cf57a735e98
-SHA256: f2c5773036597e7fb9610c7b4c4427f5c055f58219362d55163e835b6423f8fd
-Section: Tweaks
-Description: New List updated
-Author:  NsBm0d 
-Depiction: https://github.com/NsBm0d/NsBm0d.github.io
-Name: ApkList
 
