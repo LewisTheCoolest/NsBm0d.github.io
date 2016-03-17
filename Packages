@@ -27,19 +27,3 @@ Description: Adds icons to repo
 Author:  NsBm0d 
 Depiction: https://github.com/NsBm0d/NsBm0d.github.io
 Name: AiconPkg
-
-Package: com.NsBm0d.FullBatteryAlert
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.fullbatteryalert_1.0.1_iphoneos-arm.deb
-Size: 738092
-MD5sum: 5df1c70ecc63e5712104daf23f1d217c
-SHA1: 750d06281b3130c6cb177399532fade92819685e
-SHA256: 500e6704affb8d3a4634f789593a3a4292802ba016b5ce5ac53544edefd278ac
-Section: NMods
-Description: Gives you a sound when your device is 100% fully charged. You can change the sound file in Library  MobileSubstrate  DynamicLibraries  BatteryFullAlertSounds.bundle rename your new sound file as < alert > with out the < >
-Author:  NsBm0d 
-Depiction: https://github.com/NsBm0d/NsBm0d.github.io
-Name: FullBatteryAlert
-
