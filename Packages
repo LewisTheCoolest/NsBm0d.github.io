@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.alist_1.0_iphoneos-arm.deb
 Size: 836
-MD5sum: 8d4b24c04ab71b1c794c7064ab9a90e5
-SHA1: efec41ed13d52ef53c26ce631c93db6e28dc1bc7
-SHA256: 53349448d779c5376aaddebf7d879a3e5d981d346765301f4c20ddb5f39afd4b
+MD5sum: c4824f784dbc7f4c3a85353c093b3b9c
+SHA1: 43fdeca490c916ad8cffa111389db9f223291ad2
+SHA256: 7e5c68c436b2cab71ceb5761ab343be94465f2bec44afcdb252c0334dacce54f
 Section: Tweaks
 Description: New List updated
 Author:  NsBm0d 
@@ -14,14 +14,14 @@ Depiction: https://github.com/NsBm0d/NsBm0d.github.io
 Name: AList
 
 Package: com.NsBm0d.AiconPkg
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.aiconpkg_1.0_iphoneos-arm.deb
-Size: 11962
-MD5sum: 720d1d77f4c03f35d6d1b0490376eff7
-SHA1: 2e271a73e9ad41b35c52d3cd66d4ee140f37f678
-SHA256: e38eade92c7472ef7c9ab77c4b60419ff4ca004d778733f910cb0c41cdf3e02e
+Filename: ./debs//com.nsbm0d.aiconpkg_1.0.1_iphoneos-arm.deb
+Size: 11964
+MD5sum: 62cc91f12a50e6b9abb8af5b0b33b609
+SHA1: 20988fc82fe9e9699268fb05e7907ac5124d16c8
+SHA256: 808bd1d052f20d9cfe329c9d2a18b26bfbe76837b0976fac9f31f41a1c4f6965
 Section: NTweaks
 Description: Adds icons to repo
 Author:  NsBm0d 
@@ -34,9 +34,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.fullbatteryalert_1.0_iphoneos-arm.deb
 Size: 749272
-MD5sum: 0858227e955049db0563ba2cefeb02c1
-SHA1: fc4293c9a53a3081497486db9408a8fd3e70b29f
-SHA256: 72fa28114804d92cc84efdaceb69e7bd2bde8f1064a9a10951c19ff595f8a733
+MD5sum: fcfe814b2ddeff68482d2c85cd6e32fe
+SHA1: c66332872691b087ebc2b2fb45532e175030e5f5
+SHA256: baa47447ae2d78ddd2a1f6eeaf8a014469a66dab8e088a1086b1c95e52fd5aa7
 Section: NTweaks
 Description: Gives you a sound when your device is 100% fully charged. You can change the sound file in /Library/MobileSubstrate/DynamicLibraries/BatteryFullAlertSounds.bundle "rename your new sound file as < alert > with out the< >"
 Author:  NsBm0d 
