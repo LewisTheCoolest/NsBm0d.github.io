@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.alist_1.0_iphoneos-arm.deb
 Size: 836
-MD5sum: c4824f784dbc7f4c3a85353c093b3b9c
-SHA1: 43fdeca490c916ad8cffa111389db9f223291ad2
-SHA256: 7e5c68c436b2cab71ceb5761ab343be94465f2bec44afcdb252c0334dacce54f
+MD5sum: d159fe84a53e35e5c0a98b80665cfcaa
+SHA1: 1e1a8d188f1a32443f8f0d13be8e424728fd6b35
+SHA256: c562394f051d6d3c0c1ef344fe35c2e0c20ca3bff0f3ad506ee2e4b8c8e533f3
 Section: Tweaks
 Description: New List updated
 Author:  NsBm0d 
@@ -19,27 +19,12 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.aiconpkg_1.0.1_iphoneos-arm.deb
 Size: 11964
-MD5sum: 62cc91f12a50e6b9abb8af5b0b33b609
-SHA1: 20988fc82fe9e9699268fb05e7907ac5124d16c8
-SHA256: 808bd1d052f20d9cfe329c9d2a18b26bfbe76837b0976fac9f31f41a1c4f6965
+MD5sum: 2fbcf96017bd251371829635e990e202
+SHA1: 765ffa66016e5c96b711cba4b30a6db890bb2d22
+SHA256: dde46270cdff123daf50d0d4cb0468316215bbcf97cea7c91d27fe0b370d3331
 Section: NTweaks
 Description: Adds icons to repo
 Author:  NsBm0d 
 Depiction: https://github.com/NsBm0d/NsBm0d.github.io
 Name: AiconPkg
-
-Package: com.NsBm0d.FullBatteryAlert
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.fullbatteryalert_1.0_iphoneos-arm.deb
-Size: 749272
-MD5sum: fcfe814b2ddeff68482d2c85cd6e32fe
-SHA1: c66332872691b087ebc2b2fb45532e175030e5f5
-SHA256: baa47447ae2d78ddd2a1f6eeaf8a014469a66dab8e088a1086b1c95e52fd5aa7
-Section: NTweaks
-Description: Gives you a sound when your device is 100% fully charged. You can change the sound file in /Library/MobileSubstrate/DynamicLibraries/BatteryFullAlertSounds.bundle "rename your new sound file as < alert > with out the< >"
-Author:  NsBm0d 
-Depiction: https://github.com/NsBm0d/NsBm0d.github.io
-Name: FullBatteryAlert
 
