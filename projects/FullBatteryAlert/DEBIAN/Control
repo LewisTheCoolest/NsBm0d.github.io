@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author:  NsBm0d 
+Depiction: https://github.com/NsBm0d/NsBm0d.github.io
+Description: Gives you a sound when your device is 100% fully charged. You can change the sound file in /Library/MobileSubstrate/DynamicLibraries/BatteryFullAlertSounds.bundle "rename your new sound file as < alert > with out the< >"
+Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
+Name: FullBatteryAlert
+Package: com.NsBm0d.FullBatteryAlert
+Section: NTweaks
+Version: 1.0

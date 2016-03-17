@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = AquaPrefs;
+	cell = PSLinkCell;
+	detail = AquaPrefsListController;
+	icon = AquaPrefs.png;
+	isController = 1;
+	label = AquaBoard;
+    };
+}
