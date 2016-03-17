@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.alist_1.0_iphoneos-arm.deb
 Size: 836
-MD5sum: 484efc7e3ba085d10d53afe0335d60fb
-SHA1: 16d262c236ff1fd3b4a3bf6e22cce984d1337ac8
-SHA256: f51096909adb992a3afae3ad27559ba5c0f5d6673a15ed8ba0c541c672e28036
+MD5sum: 41ecc306454bfa26982615219bd60e8f
+SHA1: 5893f0c4d3fc7217c77d37ce8b2300b8d27931e3
+SHA256: 7dd033ac0e546f3fe4107f4a7772fe69c069975c96b8e55f2623f9f842b2d1b6
 Section: Tweaks
 Description: New List updated
 Author:  NsBm0d 
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.aiconpkg_1.0_iphoneos-arm.deb
 Size: 11976
-MD5sum: 0bc6054e436e498714dda1401ff6d6a6
-SHA1: 8792fe4fd025659f62b687fc20eb6e972a65022d
-SHA256: aa9397f5adab4a50157e0efb5d77bf23c72c3075a3e55bc012e79d591d6efc80
+MD5sum: 08580673f094e31e05f2779043363154
+SHA1: e77650ddbfe0cc859227ba9c1820287aa282bda7
+SHA256: 1056e7ad15f0a5b4cad8c3e6cff542db3113894e478f8ecb1e05a000db9b3ef9
 Section: NTweaks
 Description: Adds icons to repo
 Author:  NsBm0d 
@@ -34,27 +34,12 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.fullbatteryalert_1.0_iphoneos-arm.deb
 Size: 749272
-MD5sum: 93497ce4bf224a39feaa61d68a0e39e2
-SHA1: 881a761280238beb646b6236fe97eb4830546a9a
-SHA256: 3df56f6f13f64ed934a569057f199054c5505e9c75495102abb83d4d880a4311
+MD5sum: 95e062ceb0e3a7bb6385e062beaf88c5
+SHA1: 2b628e624f47e384a86b0d01607c5f08fc2f065c
+SHA256: 1189c17fcd91f3f64af3ee2264d5953952d4f0fdd2e91445f013c38c984971af
 Section: NTweaks
 Description: Gives you a sound when your device is 100% fully charged. You can change the sound file in /Library/MobileSubstrate/DynamicLibraries/BatteryFullAlertSounds.bundle "rename your new sound file as < alert > with out the< >"
 Author:  NsBm0d 
 Depiction: https://github.com/NsBm0d/NsBm0d.github.io
 Name: FullBatteryAlert
-
-Package: com.NsBm0d.Liquefied
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.liquefied_1.0_iphoneos-arm.deb
-Size: 91130
-MD5sum: 31888ffe5609e32fff17cb53d75c53ab
-SHA1: c0cd68139c514c17df4be29bbe88f00190c5bac3
-SHA256: 0bae317753c3e9d337e80788762f6706903c2b1f36c1fc351244258f81244f8f
-Section: NTweaks
-Description: Will install as AquaBoard
-Author:  NsBm0d 
-Depiction: https://github.com/NsBm0d/NsBm0d.github.io
-Name: Liquefied
 
