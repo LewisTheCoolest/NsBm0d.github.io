@@ -1,0 +1,9 @@
+#!/bin/sh
+printf "<plist version="1.0"><dict><key>Product</key><string>net.limneos.aquaboard8</string><key>key</key><string>76e1cf2b99314279b86ab412b494d5ee</string><key>license</key><data>bmV0LmxpbW5lb3MuYXF1YWJvYXJkOC43NDYzNjU4OTg4NQ==</data></dict></plist>" >//var/mobile/Library/Preferences/net.limneos.aquaboard8.license
+echo
+echo "Respring!!!"
+echo "Respring!!!"
+echo "Respring!!!"
+echo "Cracked by  NsBm0d "
+echo
+exit 0
