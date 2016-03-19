@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.alist_1.0_iphoneos-arm.deb
 Size: 836
-MD5sum: 4204b2c954013446ffc4afbac1af8609
-SHA1: 3673a91958f5a716f51f5f39f0e5019d6952b013
-SHA256: 70a7656bfed2f2e9502317e24804c9dc6759fa8c2f5ef88a82a2fa296f9c0bad
+MD5sum: e574139c59651663f11be19c177ae4ba
+SHA1: 30fb97bde5a7177fb884198dc2bc05e4daa88fb7
+SHA256: 9022573836b6f837d6aeebdb7565627956e72b470c1eeb8f1b68abb2bc01cb67
 Section: Tweaks
 Description: New List updated
 Author:  NsBm0d 
@@ -18,13 +18,31 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.aiconpkg_1.0.1_iphoneos-arm.deb
-Size: 11964
-MD5sum: 1fb4e34c17f7ce785e1e932e0a5cf715
-SHA1: 1fbed8431772c728d2eeef99232185c0b9f9ed1c
-SHA256: df5893f8e95bd18387afe9042373dff26f8069651c58af5b8c248039000285f5
+Size: 11968
+MD5sum: a913e0b2bfd78c88a01299c8dfc8473c
+SHA1: 47914bd2ba48bf05d179c5cede254d03b9a0897d
+SHA256: 64f82fd6ba6448ff8cab4a46242f8cff91e4ba530025ae5dc3c04385236f439a
 Section: NTweaks
 Description: Adds icons to repo
 Author:  NsBm0d 
 Depiction: https://github.com/NsBm0d/NsBm0d.github.io
 Name: AiconPkg
+
+Package: com.NsBm0d.Liquefied
+Version: 2.1-13k
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceLoader (>= 2.2.2), firmware (>= 8.0)
+Conflicts: net.limneos.aquaboard, com.fuyuchi.unlockize
+Filename: ./debs//com.nsbm0d.liquefied_2.1-13k_iphoneos-arm.deb
+Size: 91442
+MD5sum: eb848b572590d300b0fc40e1baa25615
+SHA1: 1c275fe02d0c7400f96b0a677dca3b1dcbac2bda
+SHA256: 44aa78f83ee4b52391599cf1dcc0e85a8a4759c5de56be834d1945289b50ed16
+Section: NMods
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquaboard8
+Description: Amazing Water Effects On SpringBoard
+Author:  NsBm0d 
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquaboard8
+Name: Liquefied
 
