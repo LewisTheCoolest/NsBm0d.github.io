@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.alist_1.0_iphoneos-arm.deb
 Size: 836
-MD5sum: 1a1ce451accfc005f7936dd9fbf57af4
-SHA1: 89325f7f41545923b93db75121052446e7408412
-SHA256: aebf4b9fe9501026ca97480a6d67ea8b66ca4967b967270710f757191a3b8f0b
+MD5sum: 1309a63b3b4976498b313e4abb7afc5f
+SHA1: be5501c13189daf4f3fdfe7e3d423cde4ed79008
+SHA256: bc1ad62d6cd8dccc5ba462dcf63a1dcf6fc06177271ecb50f9f104877ee56a9d
 Section: Tweaks
 Description: New List updated
 Author:  NsBm0d 
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.aiconpkg_1.0.1_iphoneos-arm.deb
 Size: 11964
-MD5sum: 7c1c101ca76bee77d8e0e817a49321b3
-SHA1: 0ed351a98b3f2fcaccbe2524ff609d2133031493
-SHA256: 3340441e808333f01286404deef6ee379ea7a09c4acd4114a58be33096cacd8c
+MD5sum: f347f11af117db5f208468f06fa20a39
+SHA1: 6969d9f3588bf56ddf38026c52d3a927684aac12
+SHA256: f3ff1249d731a0bc6c559915d5d223e6754bc19533edfe3c474a94fc3baffd88
 Section: NTweaks
 Description: Adds icons to repo
 Author:  NsBm0d 
