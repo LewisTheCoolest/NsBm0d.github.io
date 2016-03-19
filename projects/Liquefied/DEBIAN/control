@@ -1,12 +1,12 @@
-Package: com.hackyouriphone.aquaboard8
-Name: AquaBoard (iOS 8)
+Package: com.NsBm0d.Liquefied
+Name: Liquefied
 Version: 2.1-13k
 Depends: mobilesubstrate (>= 0.9.5000), preferenceLoader (>= 2.2.2), firmware (>= 8.0)
 Conflicts: net.limneos.aquaboard, com.fuyuchi.unlockize
 Architecture: iphoneos-arm
-Author: Elias Limneos <repo@hackyouriphone.org>
+Author:  NsBm0d 
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquaboard8
-Section: HYI - Tweaks
+Section: NMods
 Description: Amazing Water Effects On SpringBoard
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquaboard8
 Maintainer: iLeoLion <repo@hackyouriphone.org>
