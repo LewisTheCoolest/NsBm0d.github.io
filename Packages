@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.alist_1.0_iphoneos-arm.deb
 Size: 836
-MD5sum: 109e8e9e9120ff9fd7ecf4d26281c463
-SHA1: d2003e9e9c2c157893187483e8db4a8cc8f3eb8e
-SHA256: 212ad1ca0d416353a174d941770b6b518d03089728cc8497906e1c6f9a637041
+MD5sum: 081d2b598c1c81098ff7ff3581665350
+SHA1: 244e18ed5b7022f044c423ad85b6d391edb4c7e4
+SHA256: 02e61ea3a994629474ac66751f173a6ee9eee415e6120345a3e3d2c5bfcb15c7
 Section: Tweaks
 Description: New List updated
 Author:  NsBm0d 
@@ -18,10 +18,10 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.aiconpkg_1.0.1_iphoneos-arm.deb
-Size: 11966
-MD5sum: 45ab37249bf391da904e1cd5bffcc6eb
-SHA1: 7ba2e7b86203559ff5b2ed5e2350c5837a32bd99
-SHA256: c4415dce0ca2c1a92ca4832cef493777542c89dd0757ad30180f0f162eca0785
+Size: 11956
+MD5sum: 7a1dee5b18ab2bfcc2b066f70ed27bd4
+SHA1: 450018fa984ba70736edae96f8796f0f4328d323
+SHA256: 782953e3c74c629c3690318d5a67a63b6dd5874a62e0e5f85048cc44e6a8d99e
 Section: NTweaks
 Description: Adds icons to repo
 Author:  NsBm0d 
@@ -36,9 +36,9 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceLoader (>= 2.2.2), firmware (>
 Conflicts: net.limneos.aquaboard, com.fuyuchi.unlockize
 Filename: ./debs//com.nsbm0d.liquefied_2.1-13k_iphoneos-arm.deb
 Size: 91460
-MD5sum: ad2fe2bf865eb9f519a5b333c2c9729e
-SHA1: 46a47c044c064b8be5c1a08d9bbdd4fd9a8f9a28
-SHA256: 0aee70e386cc4b3c38cd8df7670971d5a19fd942900b35814103b1316572b66c
+MD5sum: aafdaa77c3bf201b7e462c87fc6e8ad3
+SHA1: 170d891fe6999f853cfcf9df680a0adbe99d3ef5
+SHA256: 87ba2c9db220dae29e21b4cf8de7dc9e14bdd64b1a6a3a0b20bc81f7837823b9
 Section: NMods
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquaboard8
 Description: Amazing Water Effects On SpringBoard
@@ -47,17 +47,17 @@ Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquab
 Name: Liquefied
 
 Package: com.NsBm0d.NsB
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.nsb_1.0_iphoneos-arm.deb
+Filename: ./debs//com.nsbm0d.nsb_1.0.1_iphoneos-arm.deb
 Size: 633892
-MD5sum: fdb73febf7d54bf44a5a5f041838bb15
-SHA1: 487ae7c6f3e1f243745b4c554feb784cc32d11f0
-SHA256: 6ed24b77f0c3aea18e59a11b8e9479ecf1c6de09ca26cc8df5c5c0f179e5e43a
+MD5sum: ba93ae49e4691c19e242bb2ab25218d7
+SHA1: a315ef9e39f8c57b26030c8b2637ea6bc84518a9
+SHA256: c733f1a1f8096872f68dad8ac1855659ae6850be36bcb9e01e378e7786e43826
 Section: NThemes
-Description: New List updated
+Description: Crystal Apple
 Author:  NsBm0d 
 Depiction: https://github.com/NsBm0d/NsBm0d.github.io
-Name: ApkList
+Name: NsB
 
