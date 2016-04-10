@@ -1,9 +1,10 @@
 Architecture: iphoneos-arm
 Author:  NsBm0d 
+Depends: Anemone
 Depiction: https://github.com/NsBm0d/NsBm0d.github.io
 Description: Dark Theme iOS8&9
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Name: NsDark
 Package: com.NsBm0d.NsDark
 Section: NThemes
-Version: 1.0.0
+Version: 1.0.1
