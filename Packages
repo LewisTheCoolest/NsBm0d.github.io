@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.alist_1.0_iphoneos-arm.deb
 Size: 836
-MD5sum: 5bd716d013e0b317a52bc213bbe354ae
-SHA1: abbeb5e7363d42706f1bc1c3e2bcf2ee6d08a3d5
-SHA256: 00155357723b0a1a2ccd1bf44304a9b4e7cf18e0ae5db6a52ab3abdb5c361650
+MD5sum: c86669c10682517534278c89d70338e5
+SHA1: a877a94f07af562b35c737da160691387da1e384
+SHA256: c834759af8a03bc06395fbb7e092a97380e63ef60b5d8542036c8c50ae3bc4fd
 Section: Tweaks
 Description: New List updated
 Author:  NsBm0d 
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.aiconpkg_1.0.1_iphoneos-arm.deb
 Size: 11956
-MD5sum: 8ea6e77ae22b206648a8a9d0629d6da3
-SHA1: 6bd9ccf96b14d86e9aa81c61e8c8e91356db4b11
-SHA256: 07fb14585ca386d18cddb2daf64fe35ce4b52cef11fe04d48c06b82cf93c2cac
+MD5sum: 89f2659303d0236e2e53f5a9f178ebea
+SHA1: ac2e5890db22c2a9c6beed4939c849ea7dd47d28
+SHA256: 297d189a6a9755483750de7247c9d835a1566443296ca88f561e2b60ad820323
 Section: NTweaks
 Description: Adds icons to repo
 Author:  NsBm0d 
@@ -36,9 +36,9 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceLoader (>= 2.2.2), firmware (>
 Conflicts: net.limneos.aquaboard, com.fuyuchi.unlockize
 Filename: ./debs//com.nsbm0d.liquefied_2.1-13k_iphoneos-arm.deb
 Size: 91460
-MD5sum: cfbba640e51fc16172e0031e21d26d0f
-SHA1: 8e67983cb39ff7dd27f443b3107c0593a5ef7f70
-SHA256: a61d0900747fecc67c58a3cd06685fc3eb46fdf63d2ecf676ca81c72f7b38ff4
+MD5sum: 238bcfd0845ea3f76ddd7449c4a48b79
+SHA1: 152983903f306f738ffe1fa5b0d8afd89f9dc5e9
+SHA256: 56eff35e4c175508535310b42ad8c6a83ee55ad00022b10e24900f2046be47eb
 Section: NMods
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquaboard8
 Description: Amazing Water Effects On SpringBoard
@@ -52,9 +52,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.nsb_1.0.1_iphoneos-arm.deb
 Size: 633906
-MD5sum: 261e420ecce0cce728800122b22dbbca
-SHA1: 7bd6a5c7f2f727c6d3a0bad5c4fc91a156bc0970
-SHA256: 9371bf4024bf6b74781153a69fdf21a1399356dc9bfcd4383b67e05844359f8b
+MD5sum: 7733c45ca36f795584431f551ba11e0e
+SHA1: 4948e2adae0bf3eb9f33a23234b57e0ade7a834d
+SHA256: 1b18521d03fc84ce27a8a82a204fa68e98a2ffcda638f5c17db2374fcf279b18
 Section: NThemes
 Description: Crystal Apple
 Author:  NsBm0d 
@@ -67,9 +67,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.nsdark_1.0.2_iphoneos-arm.deb
 Size: 2616956
-MD5sum: 979d7a7a92c32c1881d2e15cfaca73fc
-SHA1: 0d41bfd048df75958cd21c2187f8d249360c4bd9
-SHA256: 2aba1307b6caa6a5ea2770b16fe8561aabd4b13c162f65bad2d3b3a41b48e578
+MD5sum: 11c2c76e138fae511601477a7d897ff1
+SHA1: 8d348f81e45b295413df6e0a220659dd38a7da18
+SHA256: bbd856df6132eb845ad53e4bef2fc2261960211ba371abd2e7b3ef7450a80791
 Section: NThemes
 Description: Dark Theme iOS8&9 for Anemone
 Author:  NsBm0d 
@@ -77,15 +77,14 @@ Depiction: https://github.com/NsBm0d/NsBm0d.github.io
 Name: NsDark
 
 Package: com.NsBm0d.NsLight
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Depends: anemone
-Filename: ./debs//com.nsbm0d.nslight_1.0.3_iphoneos-arm.deb
-Size: 1142440
-MD5sum: cfd14d552deb917e33cfae97d32f6a00
-SHA1: bda088c2127d1614bf762464846a05e32dc3df18
-SHA256: bd68ed0105bddce35cda67dfbef791a15570a2fd04700c37f6cc8a54abf832db
+Filename: ./debs//com.nsbm0d.nslight_1.0.4_iphoneos-arm.deb
+Size: 1142430
+MD5sum: 6db6759853cd8ab6ae3df2851a033b85
+SHA1: de8a5debcb61dba2acd05a45aef6c1db05b718d0
+SHA256: 5efa00ac1a4d1c969f2a73cc9b614bebca46fbff5542fc1cf06e4eaa79a7ffd7
 Section: NThemes
 Description: Light Theme iOS8&9 for Anemone
 Author:  NsBm0d 

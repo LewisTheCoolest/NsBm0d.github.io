@@ -1,10 +1,9 @@
 Architecture: iphoneos-arm
 Author:  NsBm0d 
-Depends: anemone
 Depiction: https://github.com/NsBm0d/NsBm0d.github.io
 Description: Light Theme iOS8&9 for Anemone
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Name: NsLight
 Package: com.NsBm0d.NsLight
 Section: NThemes
-Version: 1.0.3
+Version: 1.0.4
