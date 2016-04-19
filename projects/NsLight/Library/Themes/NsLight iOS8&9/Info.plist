@@ -29,7 +29,7 @@
 
 				<key>TextColor</key>
 
-					<string>rgba(255,255,255, 0.7)</string>
+					<string>rgba(000,000,000, 0.7)</string>
 				<key>TextYoffset</key>
 
 					<real>5</real>
@@ -63,7 +63,7 @@
 
 				<key>TextColor</key>
 
-					<string>rgba(255,255,255, 0.7)</string>
+					<string>rgba(000,000,000, 0.7)</string>
 
 				<key>TextYoffset</key>
 
