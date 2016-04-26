@@ -1,9 +1,9 @@
 Architecture: iphoneos-arm
 Author:  NsBm0d 
-Depiction: https://github.com/NsBm0d/NsBm0d.github.io
+Depiction: https://github.com/NsBm0d/NsBm0d.github.io/depiction.php?package=AiconPkg
 Description: Adds icons to repo
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Name: AiconPkg
 Package: com.NsBm0d.AiconPkg
 Section: NTweaks
-Version: 1.0.1
+Version: 1.0.2
