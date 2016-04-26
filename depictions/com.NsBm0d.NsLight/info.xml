@@ -1,0 +1,56 @@
+<package>
+	<id>com.NsBm0d.NsLight</id>
+	<name>NSLight</name>
+	<version>1.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+      <maxiOS>9.0+</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<descriptionlist>
+		<description>This is a complete Theme used with Anemone iOS8&9.</description>
+		<description>It has a Crystal Apple start up screen, costom wifi images, all icons, and userinerface.</description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Crystal Apple start up screen.</description>
+			<image>image.png</image>
+		</screenshot>
+		<screenshot>
+			<description>All icons will match!</description>
+			<image>image1.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>All icons will match!</description>
+			<image>image2.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>All icons will match!</description>
+			<image>image3.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>Settings app!</description>
+			<image>image4.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>NsBm0d NsDark Theme</name>
+			<url>https://youtu.be/lxIToc40pWM</url>
+		</link>
+	</links>
+</package>

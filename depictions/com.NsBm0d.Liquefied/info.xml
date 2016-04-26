@@ -1,0 +1,44 @@
+<package>
+	<id>com.NsBm0d.Liquefied</id>
+	<name>Liquefied</name>
+	<version>2.1-13k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+      <maxiOS>9.0+</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<descriptionlist>
+		<description>This is a Mod.</description>
+		<description>Amazing Water Effects On SpringBoard.</description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Amazing Water Effects On SpringBoard.</description>
+			<image>image.png</image>
+		</screenshot>
+		<screenshot>
+			<description>This is on my Repo for Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>Liquefied</name>
+			<url>https://youtu.be/lxIToc40pWM</url>
+		</link>
+	</links>
+</package>

@@ -1,0 +1,22 @@
+<changelog>
+	<changes>
+		<version>1.0.4</version>
+		<change>Fourth release</change>
+		<change>Edited .plist file</change>
+	</changes>
+	<changes>
+		<version>1.0.3</version>
+		<change>Third release</change>
+		<change>Changed image color</change>
+	</changes>
+	<changes>
+		<version>1.0.2</version>
+		<change>Second release</change>
+		<change>Have updated for iOS9</change>
+		<change>It has added more Settings app images for iOS9</change>
+	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
