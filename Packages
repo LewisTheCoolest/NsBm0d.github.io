@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.alist_1.0_iphoneos-arm.deb
 Size: 836
-MD5sum: 55aecacc39f109c8c1457cf1dfea494b
-SHA1: 593465d3b2824406e99c7f71bd53eaf89a5dc58a
-SHA256: 240df19dac8868712d626c70e215e68613460ff4e2ba6b9388eb18d7204e2631
+MD5sum: 0c13fdbc07d685817e76b6b3befd0704
+SHA1: 5bdd998c0ba090e8112151e5d0723f6899f69e22
+SHA256: 2aa154eecb4d2e01e7447e2c5b91b2bb321b9395017ed998230ee4c12bd6db64
 Section: Tweaks
 Description: New List updated
 Author:  NsBm0d 
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.aiconpkg_1.0.2_iphoneos-arm.deb
 Size: 11978
-MD5sum: 08e9e3c3bfa5445f86a3064b14de78b7
-SHA1: 1b34d3dc9a0ea35615a19b65cbc9e81a293ed6ff
-SHA256: 5447af3e0b226dc873498fd2daf5f9cfd5e75ac60708de8356291cd73ee68f91
+MD5sum: 9eb00ae286e2b6b1ede5ccfa306b55bc
+SHA1: 61221b424f905c18ad53d8224427b1e0d9c0d747
+SHA256: b730db2d4786001631c5cc2c5f7c2e32b394b1a1b6c34a8e21d3c77fdd7a7691
 Section: NTweaks
 Description: Adds icons to repo
 Author:  NsBm0d 
@@ -36,9 +36,9 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceLoader (>= 2.2.2), firmware (>
 Conflicts: net.limneos.aquaboard, com.fuyuchi.unlockize
 Filename: ./debs//com.nsbm0d.liquefied_2.1-13k_iphoneos-arm.deb
 Size: 91460
-MD5sum: 548432172e10bfc66d86ca5ce6bb34f5
-SHA1: 33f1222bde64bb992101c9daa12739bab1084489
-SHA256: 3de458549683fde17a48475cb56e6d9b34181eb3c746828399f6c161a8485ec0
+MD5sum: df05bbc7ea287b350f0ec9e6033b8bbe
+SHA1: 369d88ff16159da09290708c0a2503c65cf99832
+SHA256: 375465e9a1f119ad3cd619dbf8a9c2cb7640191807b90e03346acfa9ee25a12f
 Section: NMods
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquaboard8
 Description: Amazing Water Effects On SpringBoard
@@ -47,47 +47,47 @@ Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aquab
 Name: Liquefied
 
 Package: com.NsBm0d.NsB
-Version: 1.0.1
+Version: 1.0.1a
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.nsb_1.0.1_iphoneos-arm.deb
-Size: 633906
-MD5sum: 2ec001b0062cee2beee3ce7e0c45fb65
-SHA1: 260fea7256b5647506b4467f9d43f47c4acfed57
-SHA256: 26a5a0373c8bd466c997ad27c2ec99c18a56eee58f7296b231d67c77cf1d377e
+Filename: ./debs//com.nsbm0d.nsb_1.0.1a_iphoneos-arm.deb
+Size: 633912
+MD5sum: 127640b203a67860b4286a5dff1d738e
+SHA1: 842e378b45eddb1f8874696250e420c8372694a4
+SHA256: dc3e28b32944141a0e0cfad1d16f77312dc70395c40a57d46c6b3b0909bf715d
 Section: NThemes
 Description: Crystal Apple
 Author:  NsBm0d 
-Depiction: https://github.com/NsBm0d/NsBm0d.github.io
+Depiction: https://NsBm0d.github.io/depictions/?p=com.NsBm0d.NsB
 Name: NsB
 
 Package: com.NsBm0d.NsDark
-Version: 1.0.2
+Version: 1.0.2a
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.nsdark_1.0.2_iphoneos-arm.deb
-Size: 2616956
-MD5sum: 3d698c836e83736fd9476108f960d916
-SHA1: 65bcd0c11c37df9f6085b12aa689bb30fc282822
-SHA256: 9ba3d962f41b76bdcba535f7ec4184d1bdd8e9821118f114acfe1ac6d93bc187
+Filename: ./debs//com.nsbm0d.nsdark_1.0.2a_iphoneos-arm.deb
+Size: 2616962
+MD5sum: 6ad616a88c1c16d55d2ed84e62e63d7f
+SHA1: eeae9343b953d5cc5796d9bd48f1e985bb302ae8
+SHA256: fa3e50115ad3732d7b1aa1d4cba2c6856fce41048fa9cc5127bbabeab7a7d5a9
 Section: NThemes
 Description: Dark Theme iOS8&9 for Anemone
 Author:  NsBm0d 
-Depiction: https://github.com/NsBm0d/NsBm0d.github.io
+Depiction: https://NsBm0d.github.io/depictions/?p=com.NsBm0d.NsDark
 Name: NsDark
 
 Package: com.NsBm0d.NsLight
-Version: 1.0.4
+Version: 1.0.4a
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.nslight_1.0.4_iphoneos-arm.deb
-Size: 1142430
-MD5sum: 7b73518aa93ac3a236434b880aafb8e0
-SHA1: f9bdf1dbfa9c0eea89a62eb0a106262d1c58f240
-SHA256: 9318ef04aea99ca6812828d77c8f7e1f0546d8de0bd339f90e1f4d36321ec5aa
+Filename: ./debs//com.nsbm0d.nslight_1.0.4a_iphoneos-arm.deb
+Size: 1142438
+MD5sum: 7f79ff7c67f558c5f6ce236fe0e6f41f
+SHA1: 07d1a8e5aec34fced8ff58e500df34da0d969f3a
+SHA256: bffbf2e3ce637b00617f1bd8aba6620d4c7bccaf7397c677c926b63bd52daffb
 Section: NThemes
 Description: Light Theme iOS8&9 for Anemone
 Author:  NsBm0d 
-Depiction: https://github.com/NsBm0d/NsBm0d.github.io
+Depiction: https://NsBm0d.github.io/depictions/?p=com.NsBm0d.NsLight
 Name: NsLight
 

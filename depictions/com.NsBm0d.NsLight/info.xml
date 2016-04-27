@@ -1,11 +1,11 @@
 <package>
 	<id>com.NsBm0d.NsLight</id>
 	<name>NSLight</name>
-	<version>1.0.4</version>
+	<version>1.0.4a</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
-      <maxiOS>9.0+</maxiOS>
+      <maxiOS>9.0.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,10 +13,10 @@
 	</dependencies>
 	<descriptionlist>
 		<description>This is a complete Theme used with Anemone iOS8 and 9.</description>
-		<description>It has a Crystal Apple start up screen, costom wifi images, all icons, and userinerface.</description>
+		<description>Has matching folders.</description>
 		<description><![CDATA[
-		You can also have<br/>
-		a multi-line item.
+		It has a Crystal Apple start up screen, costom Wi-Fi images, all the icons match<br/>
+		Themed userinerface including control center.
 		]]>
 		</description>
 	</descriptionlist>
