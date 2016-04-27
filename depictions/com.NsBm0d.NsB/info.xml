@@ -10,17 +10,10 @@
 	</compatibility>
 	<dependencies>
 		<package></package>
-		<links>
-			<Seeit>
-				<name>NsBm0d NsB Theme</name>
-				<url>https://youtu.be/lxIToc40pWM</url>
-			</Seeit>
-		</links>
 	</dependencies>
 	<descriptionlist>
 		<description>This is a Sample Theme.</description>
 		<description>It has a Crystal Apple start up screen.</description>
-
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -39,8 +32,8 @@
 	</changelog>
 	<links>
 		<link>
-			<name>NsBm0d</name>
-			<url>https://www.youtube.com/watch?v=i9D9MzvH3s0</url>
+			<name>NsBm0d NsB Theme</name>
+			<url>https://youtu.be/lxIToc40pWM</url>
 		</link>
 	</links>
 </package>
