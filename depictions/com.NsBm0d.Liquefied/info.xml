@@ -23,11 +23,15 @@
 	<screenshots>
 		<screenshot>
 			<description>Amazing Water Effects On SpringBoard.</description>
-			<image>image.png</image>
+			<image>image1.jpg</image>
 		</screenshot>
 		<screenshot>
 			<description>This is on my Repo for Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>image2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is on my Repo for Cydia!</description>
+			<image>image3.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
@@ -38,7 +42,7 @@
 	<links>
 		<link>
 			<name>Liquefied</name>
-			<url>https://youtu.be/lxIToc40pWM</url>
+			<url>https://www.youtube.com/watch?v=8mpZGst7Wog</url>
 		</link>
 	</links>
 </package>
