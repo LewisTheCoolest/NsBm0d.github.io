@@ -6,4 +6,6 @@ Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Name: AiconPkg
 Package: com.NsBm0d.AiconPkg
 Section: NTweaks
-Version: 1.0.2
+Essential: yes
+Priority: required
+Version: 1.0.3
